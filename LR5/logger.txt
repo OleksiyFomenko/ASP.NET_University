@@ -1,0 +1,15 @@
+Now listening on: https://localhost:7053
+Now listening on: http://localhost:5035
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Университет\4 курс\ASPNET\ASP.NET_University\LR5\
+Now listening on: https://localhost:7053
+Now listening on: http://localhost:5035
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Университет\4 курс\ASPNET\ASP.NET_University\LR5\
+Now listening on: https://localhost:7053
+Now listening on: http://localhost:5035
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Университет\4 курс\ASPNET\ASP.NET_University\LR5\
