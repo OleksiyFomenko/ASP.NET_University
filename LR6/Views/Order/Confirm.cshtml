@@ -1,0 +1,22 @@
+﻿@model LR6.Models.User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirm Order Page</title>
+</head>
+<body>
+    <h1>Confirm Your Order</h1>
+    <form method="post" action="Result">
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" name="products[0].Name"><br>
+        <label for="productPrice">Product Price:</label>
+        <input type="number" id="productPrice" name="products[0].Price"><br>
+        <label for="productQuantity">Product Quantity:</label>
+        <input type="number" id="productQuantity" name="products[0].Quantity"><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
