@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace LR7.Views.File
+namespace LR8.Views.Main
 {
-    public class FileModel : PageModel
+    public class ProductOrderModel : PageModel
     {
         public void OnGet()
         {
